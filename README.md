@@ -2,4 +2,4 @@
     NAM NGUYEN
   </h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=08F7E4&background=FFF63900&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+LEETCODE+Problem+%F0%9F%91%8B;CODEFORCES+Problem+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=08F7E4&background=FFF63900&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nam+Nguyen+%F0%9F%91%8B;LEETCODE+Problem+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
